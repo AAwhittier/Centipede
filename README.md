@@ -18,8 +18,9 @@ original game designed to punish missed shots.
 ### Controls
 1. Arrow keys move the player.
 2. Space bar to fire laser.
-###Gameplay Video
-[Software Demo Video](http://youtube.link.goes.here)
+
+### Gameplay Video
+[Software Demo Video](https://youtu.be/vn1miejtqYM)
 
 # Development Environment
 Developed in Unity 2021.1.5f1 using C#. If you would like to create a copy of this for your own usage,
